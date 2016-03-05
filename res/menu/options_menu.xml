@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/day"
+          android:title="@string/day" >
+    </item>
+    <item android:id="@+id/night"
+          android:title="@string/night" >
+    </item>
+    <item android:id="@+id/sepia"
+          android:title="@string/sepia" >
+    </item>
+    <item android:id="@+id/increaseText"
+          android:title="@string/increaseText" >
+    </item>
+    <item android:id="@+id/decreaseText"
+          android:title="@string/decreaseText" >
+    </item>
+    <item android:id="@+id/resetTextSize"
+          android:title="@string/resetTextSize">
+    </item>
+    <item android:id="@+id/search" android:title="@string/search"></item>
+</menu>

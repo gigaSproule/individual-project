@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Day">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:background">#FFFFFF</item>
+    </style>
+    <style name="Night">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">#000000</item>
+    </style>
+    <style name="NormalTextSize">
+        <item name="android:textSize">14dp</item>
+    </style>
+    <style name="LargeTextSize">
+        <item name="android:textSize">18dp</item>
+    </style>
+    <style name="SmallTextSize">
+        <item name="android:textSize">10dp</item>
+    </style>
+    <style name="NormalHeaderSize">
+        <item name="android:textSize">18dp</item>
+    </style>
+    <style name="LargeHeaderSize">
+        <item name="android:textSize">22dp</item>
+    </style>
+    <style name="SmallHeaderSize">
+        <item name="android:textSize">14dp</item>
+    </style>
+    <style name="NormalArticleTitleSize">
+        <item name="android:textSize">22dp</item>
+    </style>
+    <style name="LargeArticleTitleSize">
+        <item name="android:textSize">26dp</item>
+    </style>
+    <style name="SmallArticleTitleSize">
+        <item name="android:textSize">18dp</item>
+    </style>
+</resources>
